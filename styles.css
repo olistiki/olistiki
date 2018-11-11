@@ -7,9 +7,11 @@ body {
 
 
 #header-title{
+
 font-weight: bold;
   font-size: 23px;
 }
+
 
 #header {
 
@@ -24,7 +26,7 @@ font-weight: bold;
   letter-spacing: 0.1em;
 }
 #header a:hover {
-color:#222;
+color:#F6A623 ;
 
 }
 }
@@ -97,6 +99,7 @@ height: 100px;
   width: 125px;
   height: 125px;
   float: right;
+
   border-radius: 0.2em;
 }
 
@@ -107,11 +110,18 @@ p {
   line height: 1.5;
 }
 
-.post-container2{
+.post-container2 {
   background-color: #D5D8DC;
 }
-.post-container{
+.post-container4 {
+  background-color: #D5D8DC;
+}
+.post-container1 {
   background-color: #EBEDEF;
+}
+.post-container3{
+  background-color: #EBEDEF;
+
 }
 .fwtografies img{
   margin: 0px 5px 10px 0px;
